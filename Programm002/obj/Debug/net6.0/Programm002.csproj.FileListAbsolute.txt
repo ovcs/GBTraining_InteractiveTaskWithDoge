@@ -1,0 +1,16 @@
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\bin\Debug\net6.0\Programm002.exe
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\bin\Debug\net6.0\Programm002.deps.json
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\bin\Debug\net6.0\Programm002.runtimeconfig.json
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\bin\Debug\net6.0\Programm002.dll
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\bin\Debug\net6.0\ref\Programm002.dll
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\bin\Debug\net6.0\Programm002.pdb
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\Programm002.GlobalUsings.g.cs
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\Programm002.csproj.AssemblyReference.cache
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\Programm002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\Programm002.AssemblyInfoInputs.cache
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\Programm002.AssemblyInfo.cs
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\Programm002.csproj.CoreCompileInputs.cache
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\Programm002.dll
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\ref\Programm002.dll
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\Programm002.pdb
+C:\Users\ovcse\Desktop\РАЗРАБОТЧИК\ДОМАШКИ\In C#\Homework_Seminar_25.10.21\Programm002\obj\Debug\net6.0\Programm002.genruntimeconfig.cache
